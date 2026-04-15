@@ -1,4 +1,4 @@
-| [Profile](Profile.md) | [Skills (Resume)](Skills.md) | [Work Samples](Samples.md) | [Education](Education.md) |
+| [Profile](Profile.md) | [Skills (Resume)](Skills.md) | [Work Samples](Samples.md) | [Education](Education.md) |  
 A Portfolio of myself. Mainly for a Online Portfolio Assignment
 - [Webpage View](https://hootjacques.github.io/Portfolio/)
 
