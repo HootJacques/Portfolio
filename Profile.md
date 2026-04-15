@@ -1,5 +1,4 @@
-| [Return to Main](https://hootjacques.github.io/Portfolio/) |
-
+| [Profile](Profile.md) | [Skills (Resume)](Skills.md) | [Work Samples](Samples.md) | [Education](Education.md) |  
 
 # Profile
 Hugo Jacques, an avid learner of computer sciences and civil engineering.  
