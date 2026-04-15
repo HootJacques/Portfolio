@@ -1,4 +1,4 @@
-[Return to Main](https://hootjacques.github.io/Portfolio/)
+| [Return to Main](https://hootjacques.github.io/Portfolio/) |
 
 # Resume
 *Below is a pdf of my resume*
