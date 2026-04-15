@@ -1,4 +1,4 @@
-[Return to Main](https://hootjacques.github.io/Portfolio/)
+| [Profile](Profile.md) | [Skills (Resume)](Skills.md) | [Work Samples](Samples.md) | [Education](Education.md) |  
 
 # Education
 - High School Diploma
