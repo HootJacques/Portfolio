@@ -1,4 +1,4 @@
-[Return to Main](https://hootjacques.github.io/Portfolio/)
+| [Return to Main](https://hootjacques.github.io/Portfolio/) |
 
 # Work Samples 
 ### From my Studies
