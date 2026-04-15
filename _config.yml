@@ -1,3 +1,9 @@
 title: Demo Portfolio
 theme: jekyll-theme-modernist
 description: A Portfolio of myself. Mainly for a Online Portfolio Assignment
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
