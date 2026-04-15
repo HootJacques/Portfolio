@@ -1,4 +1,5 @@
 | [Profile](Profile.md) | [Skills (Resume)](Skills.md) | [Work Samples](Samples.md) | [Education](Education.md) |  
+
 # Resume
 *Below is a pdf of my resume*
 
